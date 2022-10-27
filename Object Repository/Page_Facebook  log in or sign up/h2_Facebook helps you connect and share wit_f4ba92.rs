@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Facebook helps you connect and share wit_f4ba92</name>
+   <tag></tag>
+   <elementGuidId>623d4f23-4f89-4da3-88d2-2302331dc9c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2._8eso</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b605e0f2-8b30-4ee5-a02d-5559dec294ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8eso</value>
+      <webElementGuid>1a801836-96e4-470f-86c5-1296e8ac759c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook helps you connect and share with the people in your life.</value>
+      <webElementGuid>19f81cab-217e-42d0-a7ef-b4d34fce1da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[1]/div[@class=&quot;_8esj _95k9 _8esf _8opv _8f3m _8ilg _8icx _8op_ _95ka&quot;]/div[@class=&quot;_8esk&quot;]/div[@class=&quot;_8esl&quot;]/h2[@class=&quot;_8eso&quot;]</value>
+      <webElementGuid>46972ab3-3379-42b0-ab39-63b83b35855d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/h2</value>
+      <webElementGuid>058c2002-dffa-4f4a-b8fd-30abbfc0d60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::h2[1]</value>
+      <webElementGuid>552b2b98-466c-4f1f-8b8c-6f379b179113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten password?'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3931f6ad-09dc-44c6-8481-43cd6d60cc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Facebook helps you connect and share with the people in your life.']/parent::*</value>
+      <webElementGuid>f4c49e3c-7de3-4454-af05-8e6e9a315fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>fbe735fc-40a1-4ac4-9500-c73135854499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Facebook helps you connect and share with the people in your life.' or . = 'Facebook helps you connect and share with the people in your life.')]</value>
+      <webElementGuid>6dd7b5ad-bc0d-4956-aed8-ed969d539386</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

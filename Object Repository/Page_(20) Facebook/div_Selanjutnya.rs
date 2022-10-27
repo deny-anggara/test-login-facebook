@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selanjutnya</name>
+   <tag></tag>
+   <elementGuidId>fa8a3f59-c3f5-451e-a189-78c52870eeb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.x1n2onr6.x1ja2u2z.x78zum5.x2lah0s.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.xi112ho.x17zwfj4.x585lrc.x1403ito.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.xbxaen2.x1u72gb5.xtvsq51.x1r1pt67</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[5]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d3474d4-b15e-4b2d-8b46-2d8f93cb71e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xbxaen2 x1u72gb5 xtvsq51 x1r1pt67</value>
+      <webElementGuid>c0ae78d1-8e19-4023-91e7-8e2d394b8800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selanjutnya</value>
+      <webElementGuid>cb6ffff9-49c9-44f3-adab-16c5778ddacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_6s5d _71pn system-fonts--body segoe&quot;]/div[@class=&quot;__fb-light-mode&quot;]/div[@class=&quot;xu96u03 xm80bdy x10l6tqk x13vifvy&quot;]/div[@class=&quot;x1j9u4d2 x13o0s5z x1n2onr6 x1i64zmx&quot;]/div[@class=&quot;x1n2onr6&quot;]/div[@class=&quot;x9f619 x1jx94hy x8ii3r7 x1qpq9i9 xdney7k xu5ydu1 xt3gfkd x6ikm8r x10wlt62&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w xsag5q8 xyamay9&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xl56j7k x1pi30zi x1swvt13 x1anpbxc xyorhqc xzboxd6 x14l7nz5&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xexx8yu x19f6ikt x169t7cy x4cne27 xifccgj&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xeuugli x4pfjvb xamitd3 x1pi30zi x1swvt13 x10b6aqq x1yrsyyn&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s x13a6bvl x6s0dn4 xozqiw3 x1q0g3np xexx8yu xcud41i x139jcc6 x4vbgl9 x1rdy4ex&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xeuugli x150jy0e x1e558r4 xjkvuk6 x1iorvi4 xdl72j9&quot;]/div[@class=&quot;x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x1ypdohk xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1o1ewxj x3x9cwd x1e5q0jg x13rtm0m x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xbxaen2 x1u72gb5 xtvsq51 x1r1pt67&quot;]</value>
+      <webElementGuid>775a46ff-e9db-4553-9737-5073f9b3ae74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[5]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>d5db4561-378e-4e3c-88d1-56c572f8c47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kami membuat beberapa pembaruan untuk membantu Anda menemukan apa yang Anda butuhkan'])[1]/following::div[21]</value>
+      <webElementGuid>5ad72f1a-1aa1-45d4-a7b6-049abdb1641c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Grup Baru'])[1]/following::div[64]</value>
+      <webElementGuid>ac381a99-ea2f-498d-bc22-2ade6bc9b0e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>107e9931-cc31-4305-bf2f-c9ccde24812f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selanjutnya' or . = 'Selanjutnya')]</value>
+      <webElementGuid>48f2ddfd-4a7e-49ea-ad02-525799de1de6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

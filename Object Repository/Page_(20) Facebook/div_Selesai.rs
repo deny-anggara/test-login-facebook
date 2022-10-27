@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selesai</name>
+   <tag></tag>
+   <elementGuidId>c0d38dbe-f687-4d93-ad18-dc02b2a8bc35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.x1n2onr6.x1ja2u2z.x78zum5.x2lah0s.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.xi112ho.x17zwfj4.x585lrc.x1403ito.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.xbxaen2.x1u72gb5.xtvsq51.x1r1pt67 > div.x6s0dn4.x78zum5.xl56j7k.x1608yet.xljgi0e.x1e0frkt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[5]/div/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f941779c-b829-427d-9b0c-14bf68950964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x6s0dn4 x78zum5 xl56j7k x1608yet xljgi0e x1e0frkt</value>
+      <webElementGuid>69734da6-358c-41f6-8092-e8e088f49485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selesai</value>
+      <webElementGuid>d96790a1-5230-4770-8843-ded91b3e41e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_6s5d _71pn system-fonts--body segoe&quot;]/div[@class=&quot;__fb-light-mode&quot;]/div[@class=&quot;xu96u03 xm80bdy x10l6tqk x13vifvy&quot;]/div[@class=&quot;x1j9u4d2 x13o0s5z x1n2onr6 x1i64zmx&quot;]/div[@class=&quot;x1n2onr6&quot;]/div[@class=&quot;x9f619 x1jx94hy x8ii3r7 x1qpq9i9 xdney7k xu5ydu1 xt3gfkd x6ikm8r x10wlt62&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w xsag5q8 xyamay9&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xl56j7k x1pi30zi x1swvt13 x1anpbxc xyorhqc xzboxd6 x14l7nz5&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xexx8yu x19f6ikt x169t7cy x4cne27 xifccgj&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xeuugli x4pfjvb xamitd3 x1pi30zi x1swvt13 x10b6aqq x1yrsyyn&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s x13a6bvl x6s0dn4 xozqiw3 x1q0g3np xexx8yu xcud41i x139jcc6 x4vbgl9 x1rdy4ex&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xeuugli x150jy0e x1e558r4 xjkvuk6 x1iorvi4 xdl72j9&quot;]/div[@class=&quot;x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x1ypdohk xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1o1ewxj x3x9cwd x1e5q0jg x13rtm0m x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xbxaen2 x1u72gb5 xtvsq51 x1r1pt67&quot;]/div[@class=&quot;x6s0dn4 x78zum5 xl56j7k x1608yet xljgi0e x1e0frkt&quot;]</value>
+      <webElementGuid>15a7b46b-5060-493f-8aca-3ee1c6d2adcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[5]/div/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>ae699b77-e58c-4939-9037-4b8a83328d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::div[5]</value>
+      <webElementGuid>75b88f5e-e161-4404-a826-efcff33e4087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/following::div[10]</value>
+      <webElementGuid>2e877469-0005-4d02-8df9-a993c9d0b186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[2]/preceding::div[3]</value>
+      <webElementGuid>b388bf23-8296-4cab-93e6-a13620e44432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>68461fa9-d017-4853-9e20-917edfe0c5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selesai' or . = 'Selesai')]</value>
+      <webElementGuid>63d29ec3-9a66-4de2-a1be-ad65f52c31ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

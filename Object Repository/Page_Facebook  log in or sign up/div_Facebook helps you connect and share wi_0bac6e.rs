@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Facebook helps you connect and share wi_0bac6e</name>
+   <tag></tag>
+   <elementGuidId>8653f950-9c7b-43cd-963f-edbdaae3183d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._8esj._95k9._8esf._8opv._8f3m._8ilg._8icx._8op_._95ka</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe6d092f-150b-4191-a4ee-6727ed76792b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8esj _95k9 _8esf _8opv _8f3m _8ilg _8icx _8op_ _95ka</value>
+      <webElementGuid>8a88d752-736c-4d50-abee-8513f0824fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook helps you connect and share with the people in your life.Log inForgotten password?Create New AccountCreate a Page for a celebrity, brand or business.</value>
+      <webElementGuid>187f6f34-5fca-4186-af19-f12e11340539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[1]/div[@class=&quot;_8esj _95k9 _8esf _8opv _8f3m _8ilg _8icx _8op_ _95ka&quot;]</value>
+      <webElementGuid>bd1b6ed8-3257-46da-95ce-71ecf99a825e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div</value>
+      <webElementGuid>abb75f51-b61a-41e6-a988-f221df5638c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>9baf7a61-060c-4e63-a6f1-5d2a6805135d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Facebook helps you connect and share with the people in your life.Log inForgotten password?Create New AccountCreate a Page for a celebrity, brand or business.' or . = 'Facebook helps you connect and share with the people in your life.Log inForgotten password?Create New AccountCreate a Page for a celebrity, brand or business.')]</value>
+      <webElementGuid>b83f960e-34e3-4dc2-881c-bcf1b8d93708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
